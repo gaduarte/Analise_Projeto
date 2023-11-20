@@ -1,0 +1,224 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = biblioteca_trabalho
+build_property.RootNamespace = biblioteca_trabalho
+build_property.ProjectDir = c:\Users\nitro\OneDrive\Documentos\ads\2023\pt2\analise-projeto\biblioteca_trabalho\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\nitro\OneDrive\Documentos\ads\2023\pt2\analise-projeto\biblioteca_trabalho
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Alert/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxlcnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Alert/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxlcnRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Alert/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxlcnRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Alert/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxlcnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Alert/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxlcnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Book/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Book/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Book/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Book/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Book/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Catalog/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Catalog/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Catalog/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Catalog/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Catalog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/FacultyMember/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0eU1lbWJlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/FacultyMember/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0eU1lbWJlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/FacultyMember/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0eU1lbWJlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/FacultyMember/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0eU1lbWJlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/FacultyMember/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0eU1lbWJlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/GeneralBook/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEJvb2tcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/GeneralBook/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEJvb2tcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/GeneralBook/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEJvb2tcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/GeneralBook/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEJvb2tcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/GeneralBook/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEJvb2tcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Librarian/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyaWFuXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Librarian/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyaWFuXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Librarian/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyaWFuXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Librarian/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyaWFuXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Librarian/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyaWFuXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Member/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Member/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Member/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Member/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Member/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/RefrenceBook/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmcmVuY2VCb29rXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/RefrenceBook/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmcmVuY2VCb29rXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/RefrenceBook/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmcmVuY2VCb29rXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/RefrenceBook/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmcmVuY2VCb29rXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/RefrenceBook/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmcmVuY2VCb29rXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Student/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Student/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Student/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Student/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/nitro/OneDrive/Documentos/ads/2023/pt2/analise-projeto/biblioteca_trabalho/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rfsyyehrjc
